@@ -2857,6 +2857,18 @@ video {
 }
 
 @media (min-width: 1280px) {
+  .xl\:h-\[1200px\] {
+    height: 1200px;
+  }
+
+  .xl\:h-\[100px\] {
+    height: 100px;
+  }
+
+  .xl\:h-\[1000px\] {
+    height: 1000px;
+  }
+
   .xl\:w-10\/12 {
     width: 83.333333%;
   }
